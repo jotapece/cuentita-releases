@@ -9,7 +9,7 @@ Este repositorio tiene solo los instaladores y las actualizaciones de Cuentita.
 En Windows, abrí PowerShell, pegá esta línea y apretá Enter:
 
 ```powershell
-iwr -UseBasicParsing https://github.com/jotapece/cuentita-releases/releases/latest/download/Cuentita-win-Setup.exe -OutFile $env:TEMP\Cuentita-win-Setup.exe; & $env:TEMP\Cuentita-win-Setup.exe
+curl.exe -fL -o $env:TEMP\Cuentita-win-Setup.exe https://github.com/jotapece/cuentita-releases/releases/latest/download/Cuentita-win-Setup.exe; & $env:TEMP\Cuentita-win-Setup.exe
 ```
 
 El comando baja el instalador a una carpeta temporal y lo ejecuta. Cuentita queda instalada solo para tu usuario, sin permisos de administrador, con un acceso en el menú Inicio.
