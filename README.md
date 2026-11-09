@@ -25,3 +25,7 @@ Son automáticas. Unos segundos después de abrirse, Cuentita se fija si hay una
 Configuración → Aplicaciones → Aplicaciones instaladas → Cuentita → Desinstalar.
 
 El historial y la posición de la ventana quedan en `%APPDATA%\Cuentita`. Si querés borrarlos, borrá esa carpeta.
+
+## Hecha con Slint
+
+[![Made with Slint](MadeWithSlint-logo-whitebg.png)](https://slint.dev)
