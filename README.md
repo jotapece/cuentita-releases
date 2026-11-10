@@ -18,7 +18,7 @@ Instalada así, Windows no muestra el aviso de SmartScreen («Windows protegió 
 
 ## Actualizaciones
 
-Son automáticas. Unos segundos después de abrirse, Cuentita se fija si hay una versión nueva y la baja en segundo plano, sin avisar. La próxima vez que la abrís, ya arranca actualizada.
+Unos segundos después de abrirse, Cuentita se fija si hay una versión nueva y la baja en segundo plano. Cuando está lista, el tercer puntito de arriba a la izquierda se pone verde y late; gris quiere decir que está al día. Un clic en el verde muestra las novedades, con «Actualizar ahora», que la reinicia ya actualizada, y «Más tarde». Sin tu OK no se instala.
 
 ## Desinstalar
 
